@@ -565,10 +565,6 @@ i:before {
 /* Feature Area css
 ============================================================================================ */
 .feature_area {
-  background: url(../img/home-slider/slider-bg-1.png) no-repeat scroll center center;
-  background-size: cover;
-}
-.feature_area {
   padding-top: 70px;
 }
 
@@ -671,6 +667,10 @@ i:before {
 ============================================================================================ */
 /* Team People Area css
 ============================================================================================ */
+.team_people_area {
+  background: url(../img/home-slider/slider-bg-1.png) no-repeat scroll center center;
+  background-size: cover;
+}
 .team_people_area {
   overflow: hidden;
   padding-top: 90px;
