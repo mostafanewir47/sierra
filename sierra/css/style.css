@@ -767,10 +767,6 @@ i:before {
 /* Challange Area css
 ============================================================================================ */
 .challange_area {
-  background: url(../img/home-slider/team1-bg.png) no-repeat scroll center center;
-  background-size: cover;
-}
-.challange_area {
   overflow: hidden;
 }
 
