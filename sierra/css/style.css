@@ -622,10 +622,6 @@ i:before {
   opacity: 1;
 }
 .service_feature {
-  background: url(../img/home-slider/team1-bg.png) no-repeat scroll center center;
-  background-size: cover;
-}
-.service_feature {
   border-bottom: 1px solid #bbbec1;
   padding-top: 100px;
   overflow: hidden;
@@ -770,6 +766,10 @@ i:before {
 ============================================================================================ */
 /* Challange Area css
 ============================================================================================ */
+.challange_area {
+  background: url(../img/home-slider/team1-bg.png) no-repeat scroll center center;
+  background-size: cover;
+}
 .challange_area {
   overflow: hidden;
 }
